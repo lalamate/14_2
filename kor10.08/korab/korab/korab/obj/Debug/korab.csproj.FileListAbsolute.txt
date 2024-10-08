@@ -1,0 +1,10 @@
+C:\Users\User\Downloads\Borsos Lajos 2024-25 órai munkák\AAF 2-14.2 2024-25\kor10.08\korab\korab\korab\bin\Debug\korab.exe.config
+C:\Users\User\Downloads\Borsos Lajos 2024-25 órai munkák\AAF 2-14.2 2024-25\kor10.08\korab\korab\korab\bin\Debug\korab.exe
+C:\Users\User\Downloads\Borsos Lajos 2024-25 órai munkák\AAF 2-14.2 2024-25\kor10.08\korab\korab\korab\bin\Debug\korab.pdb
+C:\Users\User\Downloads\Borsos Lajos 2024-25 órai munkák\AAF 2-14.2 2024-25\kor10.08\korab\korab\korab\bin\Debug\ConsoleTableExt.dll
+C:\Users\User\Downloads\Borsos Lajos 2024-25 órai munkák\AAF 2-14.2 2024-25\kor10.08\korab\korab\korab\bin\Debug\NetworkHelper.dll
+C:\Users\User\Downloads\Borsos Lajos 2024-25 órai munkák\AAF 2-14.2 2024-25\kor10.08\korab\korab\korab\obj\Debug\korab.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Borsos Lajos 2024-25 órai munkák\AAF 2-14.2 2024-25\kor10.08\korab\korab\korab\obj\Debug\korab.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Borsos Lajos 2024-25 órai munkák\AAF 2-14.2 2024-25\kor10.08\korab\korab\korab\obj\Debug\korab.csproj.Up2Date
+C:\Users\User\Downloads\Borsos Lajos 2024-25 órai munkák\AAF 2-14.2 2024-25\kor10.08\korab\korab\korab\obj\Debug\korab.exe
+C:\Users\User\Downloads\Borsos Lajos 2024-25 órai munkák\AAF 2-14.2 2024-25\kor10.08\korab\korab\korab\obj\Debug\korab.pdb
